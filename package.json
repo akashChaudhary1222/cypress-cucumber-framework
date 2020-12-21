@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "This is the repo to demonstrate my work with Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashChaudhary1222/cypress-cucumber-framework.git"
+  },
+  "author": "Akash Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashChaudhary1222/cypress-cucumber-framework/issues"
+  },
+  "homepage": "https://github.com/akashChaudhary1222/cypress-cucumber-framework#readme",
+  "devDependencies": {
+    "cypress": "^6.1.0"
+  }
+}
